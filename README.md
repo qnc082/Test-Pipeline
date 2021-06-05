@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/navedahmad082/Azure-Pipeline-Test/_apis/build/status/qnc082.Test-Pipeline?branchName=main)](https://dev.azure.com/navedahmad082/Azure-Pipeline-Test/_build/latest?definitionId=1&branchName=main)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
